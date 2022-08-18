@@ -1,0 +1,19 @@
+name: "Luiz_curso_Wagner"
+output_dir: ../docs
+navbar:
+  title: "Luiz_curso_Wagner"
+  left:
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+  - text: PCA
+    href: PCA.html
+  - text: License
+    href: license.html
+output:
+  workflowr::wflow_html:
+    toc: yes
+    toc_float: yes
+    theme: cosmo
+    highlight: textmate
