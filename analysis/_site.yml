@@ -1,12 +1,14 @@
-name: "Luiz_curso_Wagner"
+name: "Tutoriais - Luiz Peternelli"
 output_dir: ../docs
 navbar:
-  title: "Luiz_curso_Wagner"
+  title: "Tutoriais - LAPEA"
   left:
   - text: Home
     href: index.html
 #  - text: About
 #    href: about.html
+  - text: PCA
+    href: PCA.html
   - text: PCA
     href: PCA.html
 #  - text: License
