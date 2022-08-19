@@ -5,12 +5,12 @@ navbar:
   left:
   - text: Home
     href: index.html
-  - text: About
-    href: about.html
+#  - text: About
+#    href: about.html
   - text: PCA
     href: PCA.html
-  - text: License
-    href: license.html
+#  - text: License
+#    href: license.html
 output:
   workflowr::wflow_html:
     toc: yes
